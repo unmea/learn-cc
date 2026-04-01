@@ -1,0 +1,15 @@
+{
+  "name": "learn-cc",
+  "version": "1.0.0",
+  "description": "从零构建 AI 编码代理 — 深度学习指南",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "devDependencies": {
+    "vitepress": "^1.6.3"
+  }
+}
