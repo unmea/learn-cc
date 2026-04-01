@@ -4,6 +4,7 @@ export default defineConfig({
   title: '从零构建 AI 编码代理',
   description: '深度学习指南 — 通过提出问题、深入解答的方式，全面理解如何从零实现一个工业级 AI 编码代理',
   lang: 'zh-CN',
+  base: '/learn-cc/',
 
   themeConfig: {
     nav: [
