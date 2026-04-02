@@ -73,7 +73,8 @@ export default defineConfig({
           { text: '系统提示词设计', link: '/06-context-engineering/01-system-prompt-design' },
           { text: '上下文组装流程', link: '/06-context-engineering/02-context-assembly' },
           { text: '三层压缩策略', link: '/06-context-engineering/03-compaction-strategies' },
-          { text: 'Prompt Cache 优化', link: '/06-context-engineering/04-prompt-cache-optimization' }
+          { text: 'Prompt Cache 优化', link: '/06-context-engineering/04-prompt-cache-optimization' },
+          { text: 'SessionMemory 零感知压缩', link: '/06-context-engineering/05-session-memory-compact' }
         ]
       },
       {
